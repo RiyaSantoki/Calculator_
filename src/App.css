@@ -17,9 +17,8 @@ body {
 }
 
 form{
-    width: 300;
-    height: 400;
-    box-shadow: 0 0 10px 1px grey;
+    width: 320px;
+    box-shadow: 0 0 15px 2px grey(255 255 255 / 20%);
 }
 
 #app_name {
@@ -35,7 +34,7 @@ form{
 
 #display_answer{
     width: inherit;
-    height: 150px;
+    height: 120px;
     background-color: #303030;
     font-size: 2rem;
     color: white;
